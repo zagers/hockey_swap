@@ -99,6 +99,7 @@ GEM
       rack
     rack-test (0.6.1)
       rack (>= 1.0)
+    railroady (1.1.0)
     rails (3.2.8)
       actionmailer (= 3.2.8)
       actionpack (= 3.2.8)
@@ -179,6 +180,7 @@ DEPENDENCIES
   guard-spork (= 0.3.2)
   jquery-rails (= 2.0.2)
   pg (= 0.12.2)
+  railroady
   rails (= 3.2.8)
   rb-fsevent (= 0.9.1)
   rspec-rails (= 2.11.0)
